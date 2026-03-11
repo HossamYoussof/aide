@@ -184,11 +184,11 @@
   },
   "dependencies": {
     "@google-cloud/storage": "^7.0.1",
-    "diff": "^5.1.0",
+    "diff": "^5.2.2",
     "http-proxy": "^1.18.1",
     "ignore": "^7.0.3",
     "js-levenshtein": "^1.1.6",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lru-cache": "^10.2.0",
     "node-fetch": "^3.3.2",
     "openai": "^4.0.1",
